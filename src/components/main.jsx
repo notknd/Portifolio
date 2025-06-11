@@ -16,7 +16,7 @@ const Main = () => {
                     a team and expand my knowledge.
                 </p>
                 <div class="social-icon">
-                    <a target="blank" href="https://www.linkedin.com/in/kendy-hashimoto-944439304/"><i class="fa-brands fa-linkedin"></i></a>
+                    <a target="blank" href="https://www.linkedin.com/in/kendy-hashimoto/"><i class="fa-brands fa-linkedin"></i></a>
                     <a target="blank" href="https://github.com/notknd"><i class="fa-brands fa-github"></i></a>
                     <a target="blank" href="https://www.instagram.com/n0tknd/" ><i class="fa-brands fa-instagram"></i></a>
                 </div>
