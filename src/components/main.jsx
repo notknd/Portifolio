@@ -12,7 +12,7 @@ const Main = () => {
                     organized, a fast learner, and a team player.
                     I'm looking for an internship or entry-level position in
                     the tech field to build my career. I have hands-on experience in both front-end and back-end development
-                    using Python, JavaScript, React, Bootstrap, HTML, and CSS, through school and personal projects. I'm eager to contribute to
+                    using React, PHP, Python, JavaScript,Bootstrap, HTML, CSS, and C, through school and personal projects. I'm eager to contribute to
                     a team and expand my knowledge.
                 </p>
                 <div class="social-icon">
@@ -20,7 +20,7 @@ const Main = () => {
                     <a target="blank" href="https://github.com/notknd"><i class="fa-brands fa-github"></i></a>
                     <a target="blank" href="https://www.instagram.com/n0tknd/" ><i class="fa-brands fa-instagram"></i></a>
                 </div>
-                <a href="#" class="btn">Hire Me</a>
+                <a href="https://www.linkedin.com/in/kendy-hashimoto/" target="_blank" class="btn">Hire Me</a>
             </div>
         </section>
     );
